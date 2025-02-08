@@ -7,7 +7,8 @@
 
 #### 六合彩图库搭建文档
 
-- 搭建联系技术 https://www.tuku325.cc
+- [搭建六合彩图库](https://www.tuku325.cc/)，[搭建六合彩开奖网](https://www.tuku325.cc/) 联系技术 https://www.tuku325.cc
+
 
 1.服务器环境，推荐宝塔部署
 linux + nginx +mysql5.6 + php7.3 + redis + Supervisor
